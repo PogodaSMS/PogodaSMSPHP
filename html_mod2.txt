@@ -1,0 +1,128 @@
+  <td scope="row">Thursday <strong>23:00</strong></td>
+  <td title="Cloudy.  For the period: 23:00–02:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 10°.  Feels like: 10°.  For the period: 23:00">10°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 23:00–02:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from west.  For the period: 23:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.260.png" alt="Light breeze, 2 m/s from west" class="wind" />Light breeze, 2 m/s from west</td>
+  <td scope="row">Friday <strong>02:00</strong></td>
+  <td title="Cloudy.  For the period: 02:00–05:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 9°.  Feels like: 9°.  For the period: 02:00">9°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 02:00–05:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from west.  For the period: 02:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.270.png" alt="Light breeze, 2 m/s from west" class="wind" />Light breeze, 2 m/s from west</td>
+  <td scope="row">Friday <strong>05:00</strong></td>
+  <td title="Rain.  For the period: 05:00–08:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/09.png" width="38" height="38" alt="Rain" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 6°.  Feels like: 6°.  For the period: 05:00">6°</td>
+  <td class="precipitation" title="Precipitation: 0.9 mm.  For the period: 05:00–08:00">0.9 mm</td>
+  <td class="txt-left" title="Wind: Light air, 2 m/s from west.  For the period: 05:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.280.png" alt="Light air, 2 m/s from west" class="wind" />Light air, 2 m/s from west</td>
+  <td scope="row">Friday <strong>08:00</strong></td>
+  <td title="Rain.  For the period: 08:00–11:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/09.png" width="38" height="38" alt="Rain" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 9°.  Feels like: 9°.  For the period: 08:00">9°</td>
+  <td class="precipitation" title="Precipitation: 1.1 mm.  For the period: 08:00–11:00">1.1 mm</td>
+  <td class="txt-left" title="Wind: Light air, 1 m/s from west.  For the period: 08:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0000.280.png" alt="Light air, 1 m/s from west" class="wind" />Light air, 1 m/s from west</td>
+  <td scope="row">Friday <strong>11:00</strong></td>
+  <td title="Light rain.  For the period: 11:00–14:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/46.png" width="38" height="38" alt="Light rain" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 10°.  Feels like: 10°.  For the period: 11:00">10°</td>
+  <td class="precipitation" title="Precipitation: 0.3 mm.  For the period: 11:00–14:00">0.3 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from west.  For the period: 11:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.275.png" alt="Light breeze, 2 m/s from west" class="wind" />Light breeze, 2 m/s from west</td>
+  <td scope="row">Friday <strong>14:00</strong></td>
+  <td title="Cloudy.  For the period: 14:00–17:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 10°.  Feels like: 10°.  For the period: 14:00">10°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 14:00–17:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from west-southwest.  For the period: 14:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.250.png" alt="Light breeze, 3 m/s from west-southwest" class="wind" />Light breeze, 3 m/s from west-southwest</td>
+  <td scope="row">Friday <strong>17:00</strong></td>
+  <td title="Cloudy.  For the period: 17:00–20:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 11°.  Feels like: 11°.  For the period: 17:00">11°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 17:00–20:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from west.  For the period: 17:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.260.png" alt="Light breeze, 3 m/s from west" class="wind" />Light breeze, 3 m/s from west</td>
+  <td scope="row">Friday <strong>20:00</strong></td>
+  <td title="Partly cloudy.  For the period: 20:00–23:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/03n.94.png" width="38" height="38" alt="Partly cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 9°.  Feels like: 9°.  For the period: 20:00">9°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 20:00–23:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from north-northwest.  For the period: 20:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.330.png" alt="Light breeze, 3 m/s from north-northwest" class="wind" />Light breeze, 3 m/s from north-northwest</td>
+  <td scope="row">Friday <strong>23:00</strong></td>
+  <td title="Fair.  For the period: 23:00–02:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/02n.94.png" width="38" height="38" alt="Fair" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 5°.  Feels like: 5°.  For the period: 23:00">5°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 23:00–02:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from northwest.  For the period: 23:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.315.png" alt="Light breeze, 3 m/s from northwest" class="wind" />Light breeze, 3 m/s from northwest</td>
+  <td scope="row">Saturday <strong>02:00</strong></td>
+  <td title="Partly cloudy.  For the period: 02:00–05:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/03n.98.png" width="38" height="38" alt="Partly cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 4°.  Feels like: 1°.  For the period: 02:00">4°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 02:00–05:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from northwest.  For the period: 02:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.325.png" alt="Light breeze, 2 m/s from northwest" class="wind" />Light breeze, 2 m/s from northwest</td>
+  <td scope="row">Saturday <strong>05:00</strong></td>
+  <td title="Cloudy.  For the period: 05:00–08:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 2°.  Feels like: -2°.  For the period: 05:00">2°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 05:00–08:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from north-northwest.  For the period: 05:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.340.png" alt="Light breeze, 3 m/s from north-northwest" class="wind" />Light breeze, 3 m/s from north-northwest</td>
+  <td scope="row">Saturday <strong>08:00</strong></td>
+  <td title="Cloudy.  For the period: 08:00–11:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 2°.  Feels like: -2°.  For the period: 08:00">2°</td>
+  <td class="precipitation" title="Precipitation: 0.1 mm.  For the period: 08:00–11:00">0.1 mm</td>
+  <td class="txt-left" title="Wind: Gentle breeze, 5 m/s from north-northwest.  For the period: 08:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.340.png" alt="Gentle breeze, 5 m/s from north-northwest" class="wind" />Gentle breeze, 5 m/s from north-northwest</td>
+  <td scope="row">Saturday <strong>11:00</strong></td>
+  <td title="Light rain showers.  For the period: 11:00–14:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/40d.png" width="38" height="38" alt="Light rain showers" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 5°.  Feels like: 5°.  For the period: 11:00">5°</td>
+  <td class="precipitation" title="Precipitation: 0.4 mm.  For the period: 11:00–14:00">0.4 mm</td>
+  <td class="txt-left" title="Wind: Gentle breeze, 5 m/s from north-northwest.  For the period: 11:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.330.png" alt="Gentle breeze, 5 m/s from north-northwest" class="wind" />Gentle breeze, 5 m/s from north-northwest</td>
+  <td scope="row">Saturday <strong>14:00</strong></td>
+  <td title="Rain showers.  For the period: 14:00–17:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/05d.png" width="38" height="38" alt="Rain showers" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 7°.  Feels like: 7°.  For the period: 14:00">7°</td>
+  <td class="precipitation" title="Precipitation: 0.8 mm.  For the period: 14:00–17:00">0.8 mm</td>
+  <td class="txt-left" title="Wind: Moderate breeze, 6 m/s from northwest.  For the period: 14:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.320.png" alt="Moderate breeze, 6 m/s from northwest" class="wind" />Moderate breeze, 6 m/s from northwest</td>
+  <td scope="row">Saturday <strong>17:00</strong></td>
+  <td title="Light rain showers.  For the period: 17:00–20:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/40d.png" width="38" height="38" alt="Light rain showers" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 8°.  Feels like: 8°.  For the period: 17:00">8°</td>
+  <td class="precipitation" title="Precipitation: 0.3 mm.  For the period: 17:00–20:00">0.3 mm</td>
+  <td class="txt-left" title="Wind: Gentle breeze, 6 m/s from northwest.  For the period: 17:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.320.png" alt="Gentle breeze, 6 m/s from northwest" class="wind" />Gentle breeze, 6 m/s from northwest</td>
+  <td scope="row">Saturday <strong>20:00</strong></td>
+  <td title="Fair.  For the period: 20:00–23:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/02n.98.png" width="38" height="38" alt="Fair" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 6°.  Feels like: 6°.  For the period: 20:00">6°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 20:00–23:00">0 mm</td>
+  <td class="txt-left" title="Wind: Gentle breeze, 4 m/s from west-northwest.  For the period: 20:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.300.png" alt="Gentle breeze, 4 m/s from west-northwest" class="wind" />Gentle breeze, 4 m/s from west-northwest</td>

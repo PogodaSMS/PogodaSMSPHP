@@ -1,25 +1,29 @@
-from smsapi.client import SmsAPI
-from smsapi.responses import ApiError
+import urllib2
+import re
 
-api = SmsAPI()
+response = urllib2.urlopen('http://www.yr.no/place/Poland/Lesser_Poland/Krakow/hour_by_hour.html')
+html = response.read()
+file = open("html.txt", "w")
+file.write(html)
+file.close()
 
-api.set_username('kbula@o2.pl')
-api.set_password('smsapi')
+mod_file = open("html_mod.txt", "w")
 
-#sending SMS
-try:
-	api.service('sms').action('send')
+f = open("html.txt","r+")
+d = f.readlines()
+f.seek(0)
 
-	api.set_content('Pogoda ok!')        
-	api.set_to('668318524')
-	api.set_from('ECO')
+licznik = 0
 
-	result = api.execute()
-
-	for r in result:
-		print r.id, r.points, r.status
-
-except ApiError, e:
-	print '%s - %s' % (e.code, e.message)
-	
-	
+for i in d:
+	if (licznik > 0):
+		licznik = licznik - 1
+		mod_file.write(i)
+	else:
+		found = re.match('.*<td scope="row">', i)
+		if found:
+			mod_file.write(i)
+			licznik = 7
+		
+mod_file.truncate()		
+mod_file.close()

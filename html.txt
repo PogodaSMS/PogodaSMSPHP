@@ -1,0 +1,1029 @@
+
+
+<!DOCTYPE html>
+<html class="yr" lang="en-gb">
+	<head>
+	    <meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0533658220","applicationID":"7015942","transactionName":"MwFbbUpYCkBXU0BcXgpLeGpoFhBBUx9AR1QQDVRcXlYWR19dURtQFxRB","queueTime":0,"applicationTime":46,"ttGuid":"27EDF400EF838C21","agent":"js-agent.newrelic.com/nr-632.min.js"}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+		<title>
+		Hourly forecast for  Kraków, Lesser Poland (Poland) – yr.no</title>
+		<link rel="stylesheet" media="screen, print, projection" href="/css/yr.min.versjonert.1pFzqiYX5aBcDo290vfxU2_CVTk.css">
+		<link rel="shortcut icon" href="/grafikk/yr.ico" type="image/x-icon" />
+		<meta content="1800" http-equiv="Refresh" />
+		<meta name="viewport" content="width=990" />
+		<meta name="Robots" content="index,follow" />
+		<meta name="Googlebot" content="index,follow" />
+		<meta name="Revisit-after" content="1 Days" />
+		<meta name="description" content="Værvarsel for 9,3 millioner steder i verden!" />
+		<meta name="dcterms.creator" content="NRK og Meteorologisk institutt" />
+		<meta name="Publisher" content="NRK og Meteorologisk institutt" />
+		<meta name="dcterms.rights" content="Copyright: NRK and Norwegian Meteorological Institute © 2015" />
+		<meta name="dcterms.dateCopyrighted" content="2015"/>
+        <meta property="og:site_name" content="yr.no"/>
+		<link rel="Copyright" title="Opphavsrett Meteorologisk institutt og NRK" href="http://om.yr.no/info/vilkar/" />
+		<link rel="Search" title="Søk" href="/sok/" />
+		
+	
+	<meta name="Keywords" content="place, Poland, Lesser Poland, Kraków, vær, ver, vêr, weather" />
+<meta http-equiv="Content-language" content="eng" />
+<meta http-equiv="Description" content="Weather forecast for Kraków" />
+<meta http-equiv="Abstract" content="Weather forecast for Kraków" />
+<meta property="lp_url" content="http://www.yr.no/sted/Polen/Lillepolen/Kraków/" />
+<link rel="alternate" title="# bokmål" hreflang="nob" href="/sted/Polen/Lillepolen/Kraków/" />
+<link rel="alternate" title="# nynorsk" hreflang="nno" href="/stad/Polen/Lillepolen/Kraków/" />
+<link rel="alternate" type="text/html" media="handheld" href="http://m.yr.no/place/Poland/Lesser_Poland/Kraków/" title="Mobil: Weather forecast for Kraków" />
+<meta property="og:title" content="Hourly forecast for  Kraków" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.yr.no/place/Poland/Lesser_Poland/Kraków/hour_by_hour.html?fbRefresh=20150416T230" />
+<meta property="og:image" content="http://symbol.yr.no/grafikk/sym/b200/mf/03n.91.png" />
+<meta property="og:description" content="16 April 2015 at 23:00-02:00: Partly cloudy, Temperature 10, 0 mm, Light breeze, 3 m/s from west" />
+<!--PunktUtlandet:3094802-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS hourly forecast for Kraków" href="http://www.yr.no/place/Poland/Lesser_Poland/Kraków/varsel.rss" />
+		<script src="/js/GoogleAnalytics/GoogleAnalytics.2011.11.1.js"></script>
+        <script src="http://ll.lp4.io/app/4f/bb/91/4fbb91ddd9d93eb946000000.js" async></script>
+		<script src="/js/cXense/cXense.js"></script>
+	</head>
+	<body class="yr-point yr-myplaces">
+		<div class="yr-page">
+			
+			<div class="yr-header lp_header">
+				<div id="topp" class="yr-header-body">
+					<div class="yr-logo">
+						<a href="http://www.yr.no/" title="">
+							<img src="/grafikk/yr-logo.png" alt="Logo for yr.no" title="Go to the yr.no frontpage" />
+						</a>
+					</div>
+					<div class="yr-partner-logos">
+  <p>yr.no is a joint service by the <a class="met-logo" href="http://www.met.no/" title="Navigate to the Norwegian Meteorological Institute's web site">Norwegian Meteorological Institute</a> and the <a class="nrk-logo" href="http://www.nrk.no/" title="Navigate to NRK's web site">Norwegian Broadcasting Corporation</a></p>
+</div>
+					<div id="ctl00_ctl00_ctl00_searchDiv" class="yr-search">
+						<form action="/soek/soek.aspx">
+							<fieldset>
+								<legend>Search in forecasts for Norway and the world:</legend>
+								<div>
+									<label for="sted">Place name:  </label>
+									<input type="text" class="yr-search-searchfield" name="sted" id="sted" />
+									<input type="submit" class="yr-search-searchbutton" value="Search" id="queryknapp" />
+									<div id="yr-autosuggest" style="display: none">
+  <table>
+    <tfoot>
+      <tr>
+        <td>
+          <a id="fb_seFlere" href="" title="See more search results">See more search results</a>
+        </td>
+        <td>
+          <a id="fb_lukk" href="" title="Close">Close</a>
+        </td>
+      </tr>
+    </tfoot>
+    <tbody>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="http://fil.nrk.no/contentfile/web/icons/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="http://fil.nrk.no/contentfile/web/icons/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="http://fil.nrk.no/contentfile/web/icons/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="http://fil.nrk.no/contentfile/web/icons/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="" title="">
+            <strong>&lt;stedsnavn&gt;</strong>
+            <span>&lt;Type&gt; i &lt;kommune&gt;, &lt;område&gt;</span>
+          </a>
+        </td>
+        <td class="flag">
+          <img src="http://fil.nrk.no/contentfile/web/icons/flags/h14/NO.png" alt="" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+								</div>
+
+								<small class="yr-search-explanation">
+									Enter a place name, e.g. <a href="/soek/soek.aspx?sted=Stavanger">Stavanger</a>, <a href="/soek/soek.aspx?sted=Røst">Røst</a> or <a href="/soek/soek.aspx?sted=Beijing">Beijing</a>. <a href="/sok/">Advanced search</a>
+								</small>
+							</fieldset>
+						</form>
+					</div>
+				</div>
+			</div>
+			<div class="yr-toolbar">
+				<div class="yr-toolbar-body clearfix">
+					<a class="yr-icon yr-icon-myplaces yr-goto-myplaces left" href="/mine_stader/time_for_time.html"
+						title="">
+						My places
+					</a>
+					<div class="yr-language-switcher right">
+  <strong>Velg språk / Choose language:</strong>
+  <ul>
+    <li>
+      <span class="yr-icon yr-icon-flag-eng">English</span>
+      <ul>
+        <li>
+          <a class="yr-icon yr-icon-flag-nor" href="/_/settspr.aspx?spr=nob&amp;redir=%2fsted%2fPolen%2fLillepolen%2fKrak%c3%b3w%2ftime_for_time.html" title="Bokmål" rel="alternate nofollow">Bokmål</a>
+        </li>
+        <li>
+          <a class="yr-icon yr-icon-flag-nor" href="/_/settspr.aspx?spr=nno&amp;redir=%2fstad%2fPolen%2fLillepolen%2fKrak%c3%b3w%2ftime_for_time.html" title="Nynorsk" rel="alternate nofollow">Nynorsk</a>
+        </li>
+        <li>
+          <a class="yr-icon yr-icon-flag-nor" href="/_/settspr.aspx?spr=fkv&amp;redir=%2fpaikka%2fPolen%2fLillepolen%2fKrakova%2fjoka_tiimale.html" title="Kvääni" rel="alternate nofollow">Kvääni</a>
+        </li>
+        <li>
+          <a class="yr-icon yr-icon-flag-sami" href="/_/settspr.aspx?spr=sme&amp;redir=%2fsadji%2fPolska%2fLesser_Poland_Voivodeship%2fKrak%c3%b3w%2fdiimmus_diibmui.html" title="Davvisámegiella" rel="alternate nofollow">Davvisámegiella</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</div>
+				</div>
+			</div>
+			<div class="yr-breadcrumbs lp_breadcrumbs">
+  <div class="yr-breadcrumbs-body">
+    <ul>
+      <li>
+        <a href="/" title="">Front page</a>
+        <ul>
+          <li>
+            <a href="/place/Poland/" title="Poland">Poland</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a href="/place/Poland/Lesser_Poland/" title="Lesser Poland">Lesser Poland</a>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <span>Kraków</span>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+			<div class="yr-content">
+				
+				
+
+				
+				<div id="ctl00_ctl00_contentBody" class="yr-content-body">
+					
+					
+	<div class="yr-content-title clearfix">
+  <h1>Hourly forecast for <span><strong>Kraków</strong>, Lesser Poland (Poland)</span></h1>
+  <div id="yr-timestamp-tools">
+    <div id="yr-timestamp">
+      <p>Updated at 21:32. <strong>Next update  around 10:00.</strong></p>
+    </div>
+    <div class="yr-tools">
+      <div class="yr-setfaves">
+        <a title="" href="" class="yr-icon yr-icon-my-favourite" id="settFavoritt" style="display: none">Add to My places</a>
+        <a title="" href="" class="yr-icon yr-icon-my-favourite" id="fjernFavoritt" style="display: none">Remove from My places</a>
+        <div class="addthis-container addthis_toolbox addthis_default_style ">
+          <a class="addthis_button_facebook" title="Share on Facebook"></a>
+          <a class="addthis_button_twitter" title="Share on Twitter"></a>
+          <a class="addthis_button_email" title="Send to e-mail"></a>
+          <a class="addthis_button_compact"></a>
+          <a class="addthis_counter addthis_bubble_style"></a>
+        </div>
+        <script>
+							 var addthis_language = "en";
+						</script>
+        <script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e69c5ae52d717cf"></script>
+      </div>
+      <!-- yr-point-setfav -->
+      <a title="PDF" href="forecast.pdf" class="yr-icon yr-icon-print">Forecast as<br />PDF</a>
+    </div>
+  </div>
+</div>
+	<div class="yr-content-body yr-top-margin yr-content-stickynav clearfix">
+		
+		
+
+       
+     
+
+		<div class="yr-stickynav lp_leftmenu">
+			<div class="yr-stickynav-body">
+				<div class="yr-stickynav-menu">					
+					<ul>
+  <li>
+    <a href="./" class="yr-icon yr-icon-overview">Overview</a>
+  </li>
+  <li class="selected">
+    <a href="hour_by_hour.html" class="yr-icon yr-icon-hourly">Hour by hour</a>
+    <ul>
+      <li>
+        <a href="hour_by_hour_detailed.html" class="yr-icon">Detailed</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a href="long.html" class="yr-icon yr-icon-longterm">Long term</a>
+  </li>
+  <li>
+    <a href="statistics.html" class="yr-icon yr-icon-stats">Statistics</a>
+  </li>
+  <li class="related">
+    <a href="/kart/" id="embeddedmaplink" class="yr-icon yr-icon-maps">Værkart</a>
+  </li>
+</ul>
+				</div>
+				<div class="yr-stickynav-list">
+				</div>
+			</div>
+		</div>
+		
+  <div class="yr-meteorologist" id="point">
+  <h2>
+    <strong>Meteogram</strong>, next 48 hours</h2>
+  <div style="width: 817px; height: 242px; overflow: hidden;">
+    <img src="meteogram.png" alt="The meteogram: Kraków" width="828" height="272" style="margin-top: -25px; margin-left: -6px;" />
+  </div>
+  <p>The blue bars show max and min values for precipitation per hour.</p>
+</div>
+	<div class="yr-content-stickynav-half left">
+		
+
+	<table class="yr-table yr-table-hourly yr-content-stickynav-half left yr-popup-area">
+		<caption>
+			<strong>Today and tonight,</strong> 16 April 2015
+		</caption>
+		<colgroup width="55"></colgroup>
+		<colgroup width="50"></colgroup>
+		<colgroup></colgroup>
+		<colgroup></colgroup>
+		<colgroup width="160"></colgroup>
+		<thead>
+			<tr>
+				<th title="Time" scope="col">Time</th>
+				<th title="Forecast" scope="col">Forecast</th>
+				<th title="Temperature" scope="col">Temp.</th>
+				<th title="Precipitation" scope="col">Precip.</th>
+				<th title="Wind" scope="col">Wind</th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+  <td scope="row">Thursday <strong>23:00</strong></td>
+  <td title="Partly cloudy.  For the period: 23:00–02:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/03n.91.png" width="38" height="38" alt="Partly cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 10°.  Feels like: 10°.  For the period: 23:00">10°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 23:00–02:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from west.  For the period: 23:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.265.png" alt="Light breeze, 3 m/s from west" class="wind" />Light breeze, 3 m/s from west</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>02:00</strong></td>
+  <td title="Partly cloudy.  For the period: 02:00–05:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/03n.94.png" width="38" height="38" alt="Partly cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 8°.  Feels like: 8°.  For the period: 02:00">8°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 02:00–05:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light air, 2 m/s from west.  For the period: 02:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.265.png" alt="Light air, 2 m/s from west" class="wind" />Light air, 2 m/s from west</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>05:00</strong></td>
+  <td title="Cloudy.  For the period: 05:00–08:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 6°.  Feels like: 6°.  For the period: 05:00">6°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 05:00–08:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light air, 2 m/s from west.  For the period: 05:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.270.png" alt="Light air, 2 m/s from west" class="wind" />Light air, 2 m/s from west</td>
+</tr>
+		
+		</tbody>
+	</table>
+
+
+		<br />
+		
+
+	<table class="yr-table yr-table-hourly yr-content-stickynav-half left yr-popup-area">
+		<caption>
+			<strong>Tomorrow,</strong> 17 April 2015
+		</caption>
+		<colgroup width="55"></colgroup>
+		<colgroup width="50"></colgroup>
+		<colgroup></colgroup>
+		<colgroup></colgroup>
+		<colgroup width="160"></colgroup>
+		<thead>
+			<tr>
+				<th title="Time" scope="col">Time</th>
+				<th title="Forecast" scope="col">Forecast</th>
+				<th title="Temperature" scope="col">Temp.</th>
+				<th title="Precipitation" scope="col">Precip.</th>
+				<th title="Wind" scope="col">Wind</th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+  <td scope="row">Friday <strong>08:00</strong></td>
+  <td title="Cloudy.  For the period: 08:00–11:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 8°.  Feels like: 8°.  For the period: 08:00">8°</td>
+  <td class="precipitation" title="Precipitation: 0.1 mm.  For the period: 08:00–11:00">0.1 mm</td>
+  <td class="txt-left" title="Wind: Light air, 2 m/s from west.  For the period: 08:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.265.png" alt="Light air, 2 m/s from west" class="wind" />Light air, 2 m/s from west</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>11:00</strong></td>
+  <td title="Rain.  For the period: 11:00–14:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/09.png" width="38" height="38" alt="Rain" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 10°.  Feels like: 10°.  For the period: 11:00">10°</td>
+  <td class="precipitation" title="Precipitation: 0.8 mm.  For the period: 11:00–14:00">0.8 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from west.  For the period: 11:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.270.png" alt="Light breeze, 2 m/s from west" class="wind" />Light breeze, 2 m/s from west</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>14:00</strong></td>
+  <td title="Rain.  For the period: 14:00–17:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/09.png" width="38" height="38" alt="Rain" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 9°.  Feels like: 9°.  For the period: 14:00">9°</td>
+  <td class="precipitation" title="Precipitation: 0.5 mm.  For the period: 14:00–17:00">0.5 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 4 m/s from west-southwest.  For the period: 14:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.250.png" alt="Light breeze, 4 m/s from west-southwest" class="wind" />Light breeze, 4 m/s from west-southwest</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>17:00</strong></td>
+  <td title="Partly cloudy.  For the period: 17:00–20:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/03d.png" width="38" height="38" alt="Partly cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 9°.  Feels like: 9°.  For the period: 17:00">9°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 17:00–20:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from west-southwest.  For the period: 17:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.240.png" alt="Light breeze, 3 m/s from west-southwest" class="wind" />Light breeze, 3 m/s from west-southwest</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>20:00</strong></td>
+  <td title="Fair.  For the period: 20:00–23:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/02n.94.png" width="38" height="38" alt="Fair" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 7°.  Feels like: 7°.  For the period: 20:00">7°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 20:00–23:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from west.  For the period: 20:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.265.png" alt="Light breeze, 2 m/s from west" class="wind" />Light breeze, 2 m/s from west</td>
+</tr>
+		<tr>
+  <td scope="row">Friday <strong>23:00</strong></td>
+  <td title="Clear sky.  For the period: 23:00–02:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/01n.94.png" width="38" height="38" alt="Clear sky" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 5°.  Feels like: 3°.  For the period: 23:00">5°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 23:00–02:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from west-northwest.  For the period: 23:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.300.png" alt="Light breeze, 2 m/s from west-northwest" class="wind" />Light breeze, 2 m/s from west-northwest</td>
+</tr>
+		
+		</tbody>
+	</table>
+
+
+		
+	</div>
+	<div class="yr-content-stickynav-half right">
+		
+
+	<table class="yr-table yr-table-hourly yr-content-stickynav-half left yr-popup-area">
+		<caption>
+			18 April 2015
+		</caption>
+		<colgroup width="55"></colgroup>
+		<colgroup width="50"></colgroup>
+		<colgroup></colgroup>
+		<colgroup></colgroup>
+		<colgroup width="160"></colgroup>
+		<thead>
+			<tr>
+				<th title="Time" scope="col">Time</th>
+				<th title="Forecast" scope="col">Forecast</th>
+				<th title="Temperature" scope="col">Temp.</th>
+				<th title="Precipitation" scope="col">Precip.</th>
+				<th title="Wind" scope="col">Wind</th>
+			</tr>
+		</thead>
+		<tbody>
+		<tr>
+  <td scope="row">Saturday <strong>02:00</strong></td>
+  <td title="Fair.  For the period: 02:00–05:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/02n.98.png" width="38" height="38" alt="Fair" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 3°.  Feels like: 0°.  For the period: 02:00">3°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 02:00–05:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from northwest.  For the period: 02:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.305.png" alt="Light breeze, 3 m/s from northwest" class="wind" />Light breeze, 3 m/s from northwest</td>
+</tr>
+		<tr>
+  <td scope="row">Saturday <strong>05:00</strong></td>
+  <td title="Cloudy.  For the period: 05:00–08:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 2°.  Feels like: -1°.  For the period: 05:00">2°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 05:00–08:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 2 m/s from northwest.  For the period: 05:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.315.png" alt="Light breeze, 2 m/s from northwest" class="wind" />Light breeze, 2 m/s from northwest</td>
+</tr>
+		<tr>
+  <td scope="row">Saturday <strong>08:00</strong></td>
+  <td title="Cloudy.  For the period: 08:00–11:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/04.png" width="38" height="38" alt="Cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 3°.  Feels like: 0°.  For the period: 08:00">3°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 08:00–11:00">0 mm</td>
+  <td class="txt-left" title="Wind: Light breeze, 3 m/s from north-northwest.  For the period: 08:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0025.340.png" alt="Light breeze, 3 m/s from north-northwest" class="wind" />Light breeze, 3 m/s from north-northwest</td>
+</tr>
+		<tr>
+  <td scope="row">Saturday <strong>11:00</strong></td>
+  <td title="Rain showers.  For the period: 11:00–14:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/05d.png" width="38" height="38" alt="Rain showers" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 6°.  Feels like: 6°.  For the period: 11:00">6°</td>
+  <td class="precipitation" title="Precipitation: 1.0 mm.  For the period: 11:00–14:00">1.0 mm</td>
+  <td class="txt-left" title="Wind: Gentle breeze, 5 m/s from north-northwest.  For the period: 11:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.335.png" alt="Gentle breeze, 5 m/s from north-northwest" class="wind" />Gentle breeze, 5 m/s from north-northwest</td>
+</tr>
+		<tr>
+  <td scope="row">Saturday <strong>14:00</strong></td>
+  <td title="Rain showers.  For the period: 14:00–17:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/05d.png" width="38" height="38" alt="Rain showers" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 7°.  Feels like: 7°.  For the period: 14:00">7°</td>
+  <td class="precipitation" title="Precipitation: 0.8 mm.  For the period: 14:00–17:00">0.8 mm</td>
+  <td class="txt-left" title="Wind: Moderate breeze, 6 m/s from north-northwest.  For the period: 14:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.330.png" alt="Moderate breeze, 6 m/s from north-northwest" class="wind" />Moderate breeze, 6 m/s from north-northwest</td>
+</tr>
+		<tr>
+  <td scope="row">Saturday <strong>17:00</strong></td>
+  <td title="Fair.  For the period: 17:00–20:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/02d.png" width="38" height="38" alt="Fair" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 7°.  Feels like: 7°.  For the period: 17:00">7°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 17:00–20:00">0 mm</td>
+  <td class="txt-left" title="Wind: Moderate breeze, 6 m/s from north-northwest.  For the period: 17:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.325.png" alt="Moderate breeze, 6 m/s from north-northwest" class="wind" />Moderate breeze, 6 m/s from north-northwest</td>
+</tr>
+		<tr>
+  <td scope="row">Saturday <strong>20:00</strong></td>
+  <td title="Partly cloudy.  For the period: 20:00–23:00">
+    <img src="http://symbol.yr.no/grafikk/sym/b38/mf/03n.98.png" width="38" height="38" alt="Partly cloudy" />
+  </td>
+  <td class="temperature plus" title="Temperature:: 6°.  Feels like: 6°.  For the period: 20:00">6°</td>
+  <td class="precipitation" title="Precipitation: 0 mm.  For the period: 20:00–23:00">0 mm</td>
+  <td class="txt-left" title="Wind: Gentle breeze, 4 m/s from west-northwest.  For the period: 20:00">
+    <img src="http://fil.nrk.no/yr/grafikk/vindpiler/32/vindpil.0050.300.png" alt="Gentle breeze, 4 m/s from west-northwest" class="wind" />Gentle breeze, 4 m/s from west-northwest</td>
+</tr>
+		
+		</tbody>
+	</table>
+
+
+	</div>
+	
+		<div class="yr-horizontal-space clear lp_info">
+			
+			
+			
+		</div>
+	</div>
+	
+
+				</div>
+			</div>
+			<div class="yr-footer lp_footer" id="menu">
+				<div id="ctl00_ctl00_newsFooter" class="yr-newsfooter clearfix lp_newsfooter">
+					<h2>
+						<strong>News</strong> from yr.no</h2>
+					<div class="yr-newsfooter-body">
+						
+						<ul>
+  <li>
+    <div class="news-teasers">
+      <a href="http://artikkel.yr.no/nydelig-varvaer-til-halve-landet-1.12312964" title="">
+        <img width="225" height="127" style="width:225px;height:127;" src="http://gfx.nrk.no/9r1d5B4D_QFrL79pH_WCawj66iYQakhADimxq1NabTgA.jpg" alt="Jente hopper på fjelltopp - Foto: @celinejessen" />
+      </a>
+      <em>16.04.2015</em>
+      <h3>
+        <a href="http://artikkel.yr.no/nydelig-varvaer-til-halve-landet-1.12312964" title="Nydelig vårvær til halve landet">Nydelig vårvær til halve landet</a>
+      </h3>
+      <strong>
+        <a href="http://artikkel.yr.no/nydelig-varvaer-til-halve-landet-1.12312964" title="">Les meir</a>
+      </strong>
+    </div>
+  </li>
+  <li>
+    <div class="news-teasers">
+      <a href="http://artikkel.yr.no/her-slar-lynet-oftast-ned-1.12309183" title="">
+        <img width="225" height="127" style="width:225px;height:127;" src="http://gfx.nrk.no/5-PtGZ0XY5HlFBflA_ciKwYnPSAHRXesO3bbdMzzvB7Q.jpg" alt="TOPSHOTS-FRANCE-WEATHER-LIGHTNING - Foto: GUILLAUME SOUVANT/Afp" />
+      </a>
+      <em>14.04.2015</em>
+      <h3>
+        <a href="http://artikkel.yr.no/her-slar-lynet-oftast-ned-1.12309183" title="Her slår lynet oftast ned">Her slår lynet oftast ned</a>
+      </h3>
+      <strong>
+        <a href="http://artikkel.yr.no/her-slar-lynet-oftast-ned-1.12309183" title="">Les meir</a>
+      </strong>
+    </div>
+  </li>
+  <li>
+    <div class="news-teasers">
+      <a href="http://artikkel.yr.no/hva-slags-sky-er-dette_-1.12304333" title="">
+        <img width="225" height="127" style="width:225px;height:127;" src="http://gfx.nrk.no/b0U4vwT10E8xuJkCn2d1dwVEotg5vcZ5kqd2n5Lnn3qA.jpg" alt="Linsesky - Foto: Stig Breivik" />
+      </a>
+      <em>16.04.2015</em>
+      <h3>
+        <a href="http://artikkel.yr.no/hva-slags-sky-er-dette_-1.12304333" title="Hva slags sky er dette?">Hva slags sky er dette?</a>
+      </h3>
+      <strong>
+        <a href="http://artikkel.yr.no/hva-slags-sky-er-dette_-1.12304333" title="">Les meir</a>
+      </strong>
+    </div>
+  </li>
+  <li>
+    <div class="news-teasers">
+      <a href="http://artikkel.yr.no/magasin/paskeflorten-ble-et-iskaldt-mareritt-1.12252446" title="">
+        <img width="225" height="127" style="width:225px;height:127;" src="http://gfx.nrk.no/dzjReqYj2woVeg42qd5M6wj6zHRsTEvrwlDTeoazhDpA.jpg" alt="Jotunheimen mars 1967 - Foto: Laurvik, Henrik/NTB scanpix" />
+      </a>
+      <em>07.04.2015</em>
+      <h3>
+        <a href="http://artikkel.yr.no/magasin/paskeflorten-ble-et-iskaldt-mareritt-1.12252446" title="Påskeflørten ble et iskaldt mareritt">Påskeflørten ble et iskaldt mareritt</a>
+      </h3>
+      <strong>
+        <a href="http://artikkel.yr.no/magasin/paskeflorten-ble-et-iskaldt-mareritt-1.12252446" title="">Les meir</a>
+      </strong>
+    </div>
+  </li>
+</ul>
+					</div>
+				</div>
+				<div class="yr-navigation">
+  <div class="yr-navigation-tabs clearfix lp_nav">
+    <ul class="clearfix">
+      <li>
+        <a title="Places" href="#t1" class="yr-icon yr-icon-places">Places</a>
+      </li>
+      <li>
+        <a title="Topics of interest" href="#t2" class="yr-icon yr-icon-other-services">Topics of interest</a>
+      </li>
+      <li>
+        <a title="Current weather" href="#t3" class="yr-icon yr-icon-weather-now">Current weather</a>
+      </li>
+      <li>
+        <a title="Past weather" href="#t4" class="yr-icon yr-icon-climate">Past weather</a>
+      </li>
+      <li>
+        <a title="Learn about weather" href="#t5" class="yr-icon yr-icon-learn-about-weather">Learn about weather</a>
+      </li>
+      <li>
+        <a title="Free data" href="#t6" class="yr-icon yr-icon-weather-data">Free data</a>
+      </li>
+    </ul>
+  </div>
+  <div class="yr-navigation-body clearfix">
+    <div id="t1" style="display: block;">
+      <div class="yr-nav-norway left">
+        <h4>Norway</h4>
+        <div class="yr-nav-col">
+          <dl>
+            <dt>North Norway</dt>
+            <dd>
+              <a title="Finnmark" href="http://www.yr.no/place/Norway/Finnmark/">Finnmark</a>
+            </dd>
+            <dd>
+              <a title="Nordland" href="http://www.yr.no/place/Norway/Nordland/">Nordland</a>
+            </dd>
+            <dd>
+              <a title="Troms" href="http://www.yr.no/place/Norway/Troms/">Troms</a>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Central norway</dt>
+            <dd>
+              <a title="Nord-Trøndelag" href="http://www.yr.no/place/Norway/Nord-Trøndelag/">Nord-Trøndelag</a>
+            </dd>
+            <dd>
+              <a title="Sør-Trøndelag" href="http://www.yr.no/place/Norway/Sør-Trøndelag/">Sør-Trøndelag</a>
+            </dd>
+          </dl>
+          <dl>
+            <dt>West norway</dt>
+            <dd>
+              <a title="Hordaland" href="http://www.yr.no/place/Norway/Hordaland/">Hordaland</a>
+            </dd>
+            <dd>
+              <a title="Møre og Romsdal" href="http://www.yr.no/place/Norway/Møre_og_Romsdal/">Møre og Romsdal</a>
+            </dd>
+            <dd>
+              <a title="Rogaland" href="http://www.yr.no/place/Norway/Rogaland/">Rogaland</a>
+            </dd>
+            <dd>
+              <a title="Sogn og Fjordane" href="http://www.yr.no/place/Norway/Sogn_og_Fjordane/">Sogn og Fjordane</a>
+            </dd>
+          </dl>
+        </div>
+        <div class="yr-nav-col">
+          <dl>
+            <dt>East Norway</dt>
+            <dd>
+              <a title="Akershus" href="http://www.yr.no/place/Norway/Akershus/">Akershus</a>
+            </dd>
+            <dd>
+              <a title="Buskerud" href="http://www.yr.no/place/Norway/Buskerud/">Buskerud</a>
+            </dd>
+            <dd>
+              <a title="Hedmark" href="http://www.yr.no/place/Norway/Hedmark/">Hedmark</a>
+            </dd>
+            <dd>
+              <a title="Oppland" href="http://www.yr.no/place/Norway/Oppland/">Oppland</a>
+            </dd>
+            <dd>
+              <a title="Oslo" href="http://www.yr.no/place/Norway/Oslo/">Oslo</a>
+            </dd>
+            <dd>
+              <a title="Telemark" href="http://www.yr.no/place/Norway/Telemark/">Telemark</a>
+            </dd>
+            <dd>
+              <a title="Vestfold" href="http://www.yr.no/place/Norway/Vestfold/">Vestfold</a>
+            </dd>
+            <dd>
+              <a title="Østfold" href="http://www.yr.no/place/Norway/Østfold/">Østfold</a>
+            </dd>
+          </dl>
+          <dl>
+            <dt>South Norway</dt>
+            <dd>
+              <a title="Aust-Agder" href="http://www.yr.no/place/Norway/Aust-Agder/">Aust-Agder</a>
+            </dd>
+            <dd>
+              <a title="Vest-Agder" href="http://www.yr.no/place/Norway/Vest-Agder/">Vest-Agder</a>
+            </dd>
+          </dl>
+        </div>
+        <div class="yr-nav-col">
+          <dl>
+            <dt>Polar areas</dt>
+            <dd>
+              <a title="Svalbard" href="http://www.yr.no/place/Norway/Svalbard/">Svalbard</a>
+            </dd>
+            <dd>
+              <a title="Jan Mayen" href="http://www.yr.no/place/Norway/Jan_Mayen/">Jan Mayen</a>
+            </dd>
+            <dd>
+              <a title="Bouvetøya" href="http://www.yr.no/place/Bouvetøya/">Bouvetøya</a>
+            </dd>
+            <dd>
+              <a title="Troll (Antarktis)" href="http://www.yr.no/place/Antarctica/Other/Troll/">Troll (Antarktis)</a>
+            </dd>
+            <dd>
+              <a title="Peter I Øy" href="http://www.yr.no/place/Antarctica/Other/Peter_I_Øy/">Peter I Øy</a>
+            </dd>
+          </dl>
+          <dl>
+            <dt>Sea and offshore</dt>
+            <dd>
+              <a title="Sea and coast" href="http://www.yr.no/hav_og_kyst/">Sea and coast</a>
+            </dd>
+            <dd>
+              <a title="Fishing banks" href="http://www.yr.no/hav_og_kyst/kart_over_fiskebankene/">Fishing banks</a>
+            </dd>
+            <dd>
+              <a title="Oil platforms" href="http://www.yr.no/place/Oil_platforms/">Oil platforms</a>
+            </dd>
+            <dd>
+              <a title="Small vessel forecast" href="http://www.yr.no/hav_og_kyst/tekstvarsel/smabat/">Small vessel forecast</a>
+            </dd>
+          </dl>
+        </div>
+      </div>
+      <div class="yr-nav-world right">
+        <h4>The World</h4>
+        <div class="yr-nav-col">
+          <ul>
+            <li>
+              <a title="Nordic countries" href="http://www.yr.no/place/Norden/">Nordic countries</a>
+            </li>
+            <li>
+              <a title="Europe" href="http://www.yr.no/place/Europa/">Europe</a>
+            </li>
+            <li>
+              <a title="Asia" href="http://www.yr.no/place/Asia/">Asia</a>
+            </li>
+            <li>
+              <a title="Africa" href="http://www.yr.no/place/Afrika">Africa</a>
+            </li>
+            <li>
+              <a title="North- and Central America" href="http://www.yr.no/place/Nord-_og_Mellom-Amerika/">North- and Central America</a>
+            </li>
+            <li>
+              <a title="South-America" href="http://www.yr.no/place/Sør-Amerika/">South-America</a>
+            </li>
+            <li>
+              <a title="Oceania" href="http://www.yr.no/place/Oseania/">Oceania</a>
+            </li>
+            <li>
+              <a title="Antarktis" href="http://www.yr.no/place/Antarktis/">Antarktis</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="t2" style="display: block;">
+      <div class="yr-nav-forecast">
+        <div class="yr-nav-col">
+          <ul>
+            <li>
+              <a title="Sea and coast" href="http://www.yr.no/hav_og_kyst/">Sea and coast</a>
+            </li>
+            <li>
+              <a title="UV-forecast" href="http://www.yr.no/uv-varsel/">UV-forecast</a>
+            </li>
+            <li>
+              <a title="The meteorologist weather map" href="http://www.yr.no/verkart/">The meteorologist weather map</a>
+            </li>
+            <li>
+              <a title="Forecast for mountain passes" href="http://www.yr.no/spesialvarsel/1.5152429">Forecast for mountain passes</a>
+            </li>
+          </ul>
+        </div>
+        <div class="yr-nav-col">
+          <h4>Winter</h4>
+          <ul>
+            <li>
+              <a title="Map of skiing conditions" href="http://www.yr.no/verkart/ski/">Map of skiing conditions</a>
+            </li>
+            <li>
+              <a title="Snow depths" href="http://www.yr.no/observasjonar/sn%C3%B8lista.html">Snow depths</a>
+            </li>
+            <li>
+              <a title="Alpine skiing facilities" href="http://www.yr.no/place/Norske_alpinanlegg/">Alpine skiing facilities</a>
+            </li>
+          </ul>
+        </div>
+        <div class="yr-nav-col">
+          <h4>Summer</h4>
+          <ul>
+            <li>
+              <a title="Pollen forecast" href="http://www.yr.no/pollen/">Pollen forecast</a>
+            </li>
+            <li>
+              <a title="Forest fire hazard" href="http://www.yr.no/spesialvarsel/skogbrannfare.html">Forest fire hazard</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div id="t3" style="display: block;">
+      <div class="yr-nav-weather-now">
+        <div class="left">
+          <div class="yr-nav-col">
+            <ul>
+              <li>
+                <a title="Precipitation now (radar)" href="http://www.yr.no/radar/">Precipitation now (radar)</a>
+              </li>
+              <li>
+                <a title="Cloud cover (satellite)" href="http://www.yr.no/satellitt/">Cloud cover (satellite)</a>
+              </li>
+              <li>
+                <a title="Current observations" href="http://www.yr.no/observasjonar/">Current observations</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="t4" style="display: block;">
+      <div class="yr-nav-weather-history">
+        <div class="left">
+          <div class="yr-nav-col">
+            <ul>
+              <li>
+                <a title="Vacation weather" href="http://www.yr.no/ferie/">Vacation weather</a>
+              </li>
+              <li>
+                <a title="Warmest, coldest, wettest" href="http://www.yr.no/observasjonar/statistikk.html">Warmest, coldest, wettest</a>
+              </li>
+              <li>
+                <a title="Observation stations" href="http://www.yr.no/observasjonar/">Observation stations</a>
+              </li>
+              <li>
+                <a title="Climate evolution last 150 years" href="http://www.yr.no/klima/">Climate evolution last 150 years</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="t5" style="display: block;">
+      <div class="yr-nav-learn">
+        <div class="left">
+          <div class="yr-nav-col">
+            <ul>
+              <li>
+                <a title="Ask the meteorologist" href="http://www.yr.no/nyheter/1.7017291">Ask the meteorologist</a>
+              </li>
+              <li>
+                <a title="Meteorology encyclopedia" href="http://metlex.met.no/wiki/Hovedside">Meteorology encyclopedia</a>
+              </li>
+              <li>
+                <a title="Understand the forecast" href="http://om.yr.no/forklaring/forsta-varslene/">Understand the forecast</a>
+              </li>
+              <li>
+                <a title="Understand the symbols" href="http://om.yr.no/forklaring/symbol/">Understand the symbols</a>
+              </li>
+              <li>
+                <a title="Help" href="http://om.yr.no/sporsmal/kontakt-yr-no/">Help</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="t6" style="display: block;">
+      <div class="yr-nav-data lp_data">
+        <div class="yr-nav-data-intro">
+          <p>A lot of the data on yr.no is free to use in applications and services. </p>
+          <p>If you develop programs, applications or other services with data from yr.no, we encourage you to <a href="http://tillegg.yr.no/">share it with other users</a>!</p>
+        </div>
+        <div class="yr-nav-col"></div>
+        <div class="yr-nav-col">
+          <h4>Information and guidelines</h4>
+          <ul>
+            <li>
+              <a href="http://om.yr.no/verdata/">Make your own applications</a>
+            </li>
+            <li>
+              <a href="http://om.yr.no/verdata/vilkar/">Terms and conditions </a>
+            </li>
+            <li>
+              <a href="http://om.yr.no/verdata/hvorfor/">Why free weatherdata?</a>
+            </li>
+          </ul>
+        </div>
+        <div class="yr-nav-col">
+          <h4>Data sources</h4>
+          <ul>
+            <li>
+              <a href="http://om.yr.no/verdata/xml/">Forecast in XML-format</a>
+            </li>
+            <li>
+              <a href="http://om.yr.no/verdata/grib/">Forecast in GRIB-format</a>
+            </li>
+            <li>
+              <a href="http://om.yr.no/verdata/klimadata/">Observations and climate statistics in XML-format</a>
+            </li>
+          </ul>
+        </div>
+        <div class="yr-nav-col">
+          <h4>Readymade solutions</h4>
+          <ul>
+            <li>
+              <a href="http://om.yr.no/verdata/javascript/">Javascript-forecast</a>
+            </li>
+            <li>
+              <a href="http://om.yr.no/verdata/php/">Forecast in PHP-format</a>
+            </li>
+            <li>
+              <a href="http://tillegg.yr.no/applikasjoner">tillegg.yr.no</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+				
+<div class="colophon clearfix lp_colophon">
+	<div class="half left">
+		<strong>Editor:</strong> Ingrid Støver Jensen<br/>
+		<strong>Executive editor</strong> Thor Gjermund Eriksen<br/>
+		<strong>Meteorological responsible:</strong> Anton Eliassen
+		<div>
+			yr.no is a joint service by the Norwegian Meteorological Institute and the Norwegian Broadcasting Corporation, with data and content from:
+			<ul>
+				<li><a title="Avinor" href="http://www.avinor.no/">Avinor</a>,</li>
+				<li><a title="Norwegian Institute for Agricultural and Environmental Research" href="http://www.bioforsk.no/">Norwegian Institute for Agricultural and Environmental Research</a>,</li>
+				<li><a title="European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)" href="http://www.eumetsat.int/">European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT)</a>,</li>
+				<li><a title="European Centre for Medium-Range Weather Forecasts (ECMWF)" href="http://www.ecmwf.int/">European Centre for Medium-Range Weather Forecasts (ECMWF)</a>,</li>
+				<li><a title="Geonames" href="http://www.geonames.org/">Geonames</a>,</li>
+				<li><a title="Norwegian National Rail Administration" href="http://www.jernbaneverket.no/">Norwegian National Rail Administration</a>,</li>
+				<li><a title="Kainun institutti" href="http://www.kvenskinstitutt.no/">Kainun institutti</a>,</li>
+				<li><a title="Norwegian Meteorological Institute" href="http://www.met.no/">Norwegian Meteorological Institute</a>,</li>
+				<li><a title="Norwegian Water Resources and Energy Directorate (NVE)" href="http://www.nve.no/">Norwegian Water Resources and Energy Directorate (NVE)</a>,</li>
+				<li><a title="Norwegian Polar Institute" href="http://www.npolar.no/">Norwegian Polar Institute</a>,</li>
+				<li><a title="Norwegian Broadcasting Corporation" href="http://www.nrk.no/">Norwegian Broadcasting Corporation</a>,</li>
+				<li><a title="Scientific Committee on Antarctic Research (SCAR)" href="http://www.scar.org/">Scientific Committee on Antarctic Research (SCAR)</a>,</li>
+				<li><a title="Norwegian Mapping and Cadastre Authority" href="http://www.statkart.no/">Norwegian Mapping and Cadastre Authority</a> and</li>
+				<li><a title="NTNU University Museum" href="http://www.ntnu.no/vitenskapsmuseet/">NTNU University Museum</a>.</li>
+			</ul>
+		</div>
+	</div>
+	<div class="half right">
+		<ul>
+			<li><a href="/">Front page</a></li>
+			<li><a href="http://om.yr.no/info/fakta/">About yr.no</a></li>
+			<li><a href="http://om.yr.no/sporsmal/kontakt-yr-no/">Contact and help</a></li>																								      			
+		</ul>
+		<div>
+			<a href="http://met.no" title="Navigate to the Norwegian Meteorological Institute's web site"><img width="148" height="40" alt="Logo for the Norwegian Meteorological Institute" src="/grafikk/met.png" /></a>
+			<a href="http://nrk.no" title="Navigate to NRK's web site"><img width="82" height="29" alt="Logo for the Norwegian Broadcasting Corporation"  src="/grafikk/nrk.png" /></a>
+		</div>
+		<span>Copyright &copy; Norwegian Meteorological Institute and Norwegian Broadcasting Corporation 2007-2014</span>
+	</div>
+</div>
+			</div>
+		</div>
+		
+            
+        <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.2.min.js"></script>
+		<script> window.jQuery || document.write('<script src="/Scripts/jquery-1.11.2.min.js">\x3C/script>');</script>
+	<script src="/Scripts/yr.min.versjonert.4V97S_z__-UC8tw13G4DN8_JOxM.js"></script>
+		<script>yr.kontekst={"spraak":{"kode":"eng","desimalskille":"."},"approt":""};</script>
+		<script src="/Scripts/yr.bruker.historikk.min.versjonert.QhGpMacI62Bp1gPdDoSVi78anyY.js"></script>
+		
+		
+
+<script>
+
+  jQuery(function ($) {
+    yr.kontekst.node = {
+      erPunkt: true,
+      id: "PunktUtlandet:3094802"
+    };
+    var ps = new yr.bruker.historikk.visning.Punktside();
+  });
+
+</script>
+
+	
+<script>
+  yr.sider.timeForTime();
+</script>
+
+
+		
+<div class="stats"><script>
+  unispring.c({
+    "s":"nrk",
+    "cp": "nrk/yr/europa", 
+    "url": document.location.href
+    });
+  </script>
+  <noscript>
+    <div>
+      <img src="http://nrk.tns-cs.net/j0=,,,;+,cp=nrk/yr/europa+url=yr.no/tre/treTimeForTime.aspx;;;" alt=""/>
+    </div>
+  </noscript>
+</div>
+
+		
+	</body>
+	<!--MADMZYRWWW08 16.04.2015 23:00:47 46,9 ms-->
+	<!-- YR Weather Forecast -->
+</html>
